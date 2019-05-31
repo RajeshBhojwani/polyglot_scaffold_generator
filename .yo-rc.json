@@ -1,0 +1,7 @@
+{
+  "generator-generator": {},
+  "generator-mocha": {
+    "ui": "bdd",
+    "rjs": false
+  }
+}

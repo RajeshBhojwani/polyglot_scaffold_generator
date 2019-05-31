@@ -1,0 +1,32 @@
+{
+  "name": "generator-scaffold-service",
+  "version": "1.1.0",
+  "description": "Yeoman generator for scaffold service.",
+  "main": "app/index.js",
+  "repository": "",
+  "author": {
+    "name": "Rajesh Bhojwani",
+    "email": "rajesh.bhojwani@emc.com",
+    "url": ""
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "change-case": "^2.3.1",
+    "fs-finder": "^1.8.1",
+    "generator-generator": "^4.0.2",
+    "got": "^6.2.0",
+    "ncp": "^2.0.0",
+    "node-yaml": "^3.0.3",
+    "strsplit": "^1.0.0",
+    "xmldoc": "^0.4.0",
+    "yeoman-generator": "^0.18",
+    "yeoman-option-or-prompt": "1.0.2",
+    "yosay": "^1.0.2"
+  }
+}
