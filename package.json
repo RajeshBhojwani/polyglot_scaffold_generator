@@ -20,7 +20,7 @@
     "change-case": "^2.3.1",
     "fs-finder": "^1.8.1",
     "generator-generator": "^4.0.2",
-    "got": "^6.2.0",
+    "got": "^11.8.5",
     "ncp": "^2.0.0",
     "node-yaml": "^3.0.3",
     "strsplit": "^1.0.0",
